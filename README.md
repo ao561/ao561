@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">• 🎓 Incoming Third Year Information and Computer Engineering Student @ University of Cambridge<br>• 💻 Current SWE Intern @ Eseye + Technology Spring Intern @ Morgan Stanley & Deutsche Bank<br>• 🧩 Passionate about software engineering, machine learning, and financial technology.</h5>
+<p align="left">• 🎓 Incoming Third Year Information and Computer Engineering Student @ University of Cambridge<br>• 💻 Current SWE Intern @ Eseye + Technology Spring Intern @ Morgan Stanley & Deutsche Bank<br>• 🧩 Passionate about software engineering, machine learning, and financial technology.</p>
 
 ###
 
-<h4 align="left">🚀 Languages and Tools:</h4>
+<h3 align="left">🚀 Languages and Tools:</h3>
 
 ###
 
@@ -38,21 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h4 align="left">✉️ Reach out to me on LinkedIn or via Email</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amaan-omar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="amaan78940@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
