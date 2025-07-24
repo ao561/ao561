@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• 🎓 Incoming Third Year MEng Information and Computer Engineering Student @ University of Cambridge<br>• 💻 Current SWE Intern @ Eseye, Technology Spring Intern @ Morgan Stanley & Deutsche Bank<br>• 🚀 Passionate about software engineering, machine learning, and financial technology.</p>
+<p align="left">• 🎓 Incoming Third Year MEng Information and Computer Engineering Student @ University of Cambridge<br>• 💻 Current SWE Intern @ Eseye + Technology Spring Intern @ Morgan Stanley & Deutsche Bank<br>• 🚀 Passionate about software engineering, machine learning, and financial technology.</p>
 
 ###
 
