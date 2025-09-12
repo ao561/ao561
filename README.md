@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• 🎓 Third Year Information and Computer Engineering Student @ Emmanuel College, University of Cambridge<br>• 💻 Incoming SWE IP @ Morgan Stanley | SWE Intern @ Eseye<br>• 🚀 Passionate about software engineering, machine learning, and financial technology</p>
+<p align="left">• 🎓 Third Year Information and Computer Engineering Student @ Emmanuel College, University of Cambridge<br>• 💻 Incoming SWE IP @ Morgan Stanley | Ex-SWE Intern @ Eseye<br>• 🚀 Passionate about software engineering, machine learning, and financial technology</p>
 
 ###
 
