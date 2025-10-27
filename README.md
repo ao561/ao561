@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• 🎓 Computer Engineering @ University of Cambridge<br>• 💻 Incoming SWE IP @ Morgan Stanley | Prev SWE Intern @ Eseye<br>• 🚀 Passionate about software engineering, machine learning, and financial technology</p>
+<p align="left">• 🎓 MEng Computer Engineering @ University of Cambridge<br>• 💻 Incoming SWE IP @ Morgan Stanley | Prev SWE Intern @ Eseye<br>• 🚀 Passionate about software engineering, machine learning, and financial technology</p>
 
 ###
 
