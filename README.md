@@ -3,7 +3,7 @@
 <p align="left">
   I'm an Information and Computer Engineering student at Emmanuel College, University of Cambridge with a strong passion for software engineering, machine learning, and financial technology.
   
-  This summer, I will be joining Morgan Stanley for a 12-month placement as a Software Engineer, where I look forward to gaining deep exposure to enterprise-scale development and contributing to high-impact engineering projects.
+  This summer, I will be joining Morgan Stanley for a 12-month placement as a Software Engineer, where I look forward to developing in an enterprise-scale environment and driving results on high-impact engineering projects.
   
   I’m always open to new challenges, collaborations, and opportunities across the technology landscape.
 </p>
