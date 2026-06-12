@@ -3,8 +3,6 @@
 <p align="left">
   Information and Computer Engineering student at Emmanuel College, University of Cambridge with a strong interest in software engineering, machine learning and quantitative development.
 
-  This summer, I will be joining Morgan Stanley as a Software Engineer for a 12-month placement, where I look forward to gaining hands-on experience and developing my technical skills.
-
   I’m always open to new challenges, collaborations, and opportunities across the technology landscape.
 
   Outside of tech, I enjoy competitive speedcubing (Sub-9 average), having ranked 2nd in the UK (2x2) with 4 WCA podium finishes.
