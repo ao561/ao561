@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Amaan 👋</h1>
 
 <p align="left">
-  Information and Computer Engineering student at Emmanuel College, University of Cambridge with a strong interest in software engineering, machine learning and high performance systems.
+  Computer Engineering student at Emmanuel College, University of Cambridge with a strong interest in software engineering, machine learning and high performance systems.
 
   I’m always open to new challenges, collaborations, and opportunities across the technology landscape.
 
