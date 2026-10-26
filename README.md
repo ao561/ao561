@@ -8,6 +8,6 @@
 
 <p align="left">
   💼 <strong>Find me on</strong> <a href="https://www.linkedin.com/in/amaan-omar/">LinkedIn</a><br>
-  📧 <strong>Email:</strong> <a href="mailto:ao561@cam.ac.uk">ao561@cam.ac.uk</a>
+  📧 <strong>Email:</strong> <a href="mailto:ao561@cam.ac.uk">amaan.omar.dev@gmail.com</a>
 </p>
 
